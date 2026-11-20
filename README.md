@@ -6,7 +6,7 @@ SIGNAL is a browser-based data exploration platform designed to make CSV analysi
 
 Live Demo
 
-"Launch SIGNAL" (https://signal-studio-data-intelligence-1rukb6.v2.appdeploy.ai/)
+[Launch SIGNAL](https://csvg.vercel.app⁠)
 
 Features
 
